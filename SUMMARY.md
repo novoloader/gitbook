@@ -11,3 +11,4 @@
 ## 📜 Information
 
 * [Github](information/github.md)
+* [Reddit](information/reddit.md)
